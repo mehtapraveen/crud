@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "employeeData": [
+    {
+      "id": 2,
+      "firstName": "zxy",
+      "lastName": "abc",
+      "emailId": "zxy@gmail.com",
+      "mobileNo": "125165454",
+      "salary": "600000"
+    },
+    {
+      "id": 3,
+      "firstName": "praveen ",
+      "lastName": "mehta",
+      "emailId": "praveen@123.com",
+      "mobileNo": "9572917297",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "firstName": "teja",
+      "lastName": "baba",
+      "emailId": "teja@123gmail.com",
+      "mobileNo": "6554584854",
+      "salary": "6000000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
